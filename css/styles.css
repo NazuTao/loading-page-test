@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(#581845 65%, #900C3F );
+    background: linear-gradient(#581845 65%, #900C3F);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +10,7 @@ body {
     min-width: 50vh;
     border-radius: 10px;
     align-items: center;
-    position: absolute ;
+    position: absolute;
     top: 65px;
 }
 .loading {
